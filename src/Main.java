@@ -1,3 +1,4 @@
+//A simple comment
 public class Main {
     public static void main(String[] args) {
         Hamburger hamburger = new Hamburger("Classic", "Beef", 10.5,  "White Bread");
