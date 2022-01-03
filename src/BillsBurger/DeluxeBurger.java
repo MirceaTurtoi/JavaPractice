@@ -1,3 +1,5 @@
+package BillsBurger;
+
 public class DeluxeBurger extends Hamburger {
     public DeluxeBurger(){
         super("Deluxe", "Deluxe Meat", 19.10,  "Deluxe Bread");

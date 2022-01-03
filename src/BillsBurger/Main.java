@@ -1,3 +1,5 @@
+package BillsBurger;
+
 //A simple comment
 //Another simple comment
 public class Main {

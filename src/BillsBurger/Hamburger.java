@@ -1,3 +1,5 @@
+package BillsBurger;
+
 public class Hamburger {
     private String name;
     private String meat;
