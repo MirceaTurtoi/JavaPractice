@@ -2,8 +2,8 @@
 Repository to practice java.
 
 # Lists
-ArrayList
-LinkedList
+ArrayList,
+LinkedList,
 TreeList
 
 # Inner Class
